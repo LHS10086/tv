@@ -1,5 +1,5 @@
 {
-  "spider": "http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
+  "spider": "./spider.jar",
   "wallpaper": "https://sgmao.serv00.net/image/",
   "logo": "https://4708.kstore.space/logo.gif",
   "sites": [
