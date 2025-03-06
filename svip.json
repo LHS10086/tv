@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar",
+  "spider": "https://github.com/LHS10086/tv/raw/refs/heads/master/spider.jar",
   "wallpaper": "https://sgmao.serv00.net/image/",
   "logo": "https://4708.kstore.space/logo.gif",
   "sites": [
